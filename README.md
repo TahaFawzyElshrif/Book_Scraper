@@ -127,7 +127,7 @@ Possible improvements include:
 
 ```text
 .
-├── code.ipynp
+├── code.ipynb
 ├── books.csv
 ├── books.db
 └── README.md
